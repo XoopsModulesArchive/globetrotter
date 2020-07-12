@@ -1,0 +1,56 @@
+<?
+// Copryright (c) 2003-2004 Xenolth.biz. All righs reserved.
+
+/******************** Xenolth's Globe*Trotter Language Pack (English) ********************/
+/** This is the file that Globe*Trotter looks to for words and phrases to display.
+/** Did you know that can download language packs that will translate your Globe*Trotter into different languages?
+/** Check it out at http://www.xenolth.biz!
+/** If you would like to see Globe*Trotter in your language, please help contribute to Globe*Trotter's translation project.
+/** Details are at http://www.xenolth.biz.
+***/
+
+/** ENGLISH: Xenolth's Globe*Trotter **/
+$LANG_xenolths_globetrotter = "Xenolth's Globe*Trotter";
+
+/** ENGLISH: Name **/
+$LANG_name = "Name";
+
+/** ENGLISH: Email **/
+$LANG_email = "Email";
+
+/** ENGLISH: Website **/
+$LANG_website = "Website";
+
+/** ENGLISH: message **/
+$LANG_message = "Message";
+
+/** ENGLISH: Icon **/
+$LANG_icon = "Icon";
+
+/** ENGLISH: Fields marked with an asterisk (*) are required **/
+$LANG_asterisk_required = "Fields marked with an asterisk (*) are required";
+
+/** ENGLISH: We could not add your post because the following field(s) were left blank" **/
+$LANG_cant_add_post = "We could not add your post because the following field(s) were left blank";
+
+/** ENGLISH: Please enter the message you would like to leave below **/
+$LANG_enter_message = "Please enter the message you would like to leave below";
+
+/** ENGLISH: Select which icon to represent you on the map **/
+$LANG_select_icon = "Select an icon to represent you on the map";
+
+/** ENGLISH: Click on a location on the map to add your message **/
+$LANG_click_add_message = "To add your message, drag one of the icons to a location on the map";
+
+/** ENGLISH: Submit **/
+$LANG_submit = "Submit";
+
+/** ENGLISH: Cancel **/
+$LANG_cancel = "Cancel";
+
+/** ENGLISH: Powered by **/
+$LANG_powered_by = "Powered by";
+
+/** ENGLISH: version **/
+$LANG_version = "version";
+?>

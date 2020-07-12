@@ -1,0 +1,86 @@
+[03-Jul-2004 14:57:29] PHP Parse error:  parse error in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 29
+[03-Jul-2004 14:58:17] PHP Parse error:  parse error in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 29
+[03-Jul-2004 14:58:35] PHP Parse error:  parse error in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 29
+[03-Jul-2004 15:00:22] PHP Parse error:  parse error in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 29
+[05-Jul-2004 20:07:31] PHP Warning:  getimagesize: Unable to open '' for reading. in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 6
+[05-Jul-2004 20:07:31] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 345
+[05-Jul-2004 20:08:46] PHP Warning:  Failed opening 'XOOPS_ROOT_PATH/footer.php' for inclusion (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 498
+[05-Jul-2004 20:09:20] PHP Warning:  Failed opening 'XOOPS_ROOT_PATH/footer.php' for inclusion (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 498
+[05-Jul-2004 20:10:35] PHP Warning:  Failed opening 'XOOPS_ROOT_PATH/footer.php' for inclusion (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 498
+[05-Jul-2004 20:10:51] PHP Warning:  Failed opening 'XOOPS_ROOT_PATH/footer.php' for inclusion (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 498
+[06-Jul-2004 19:40:50] PHP Notice:  Use of undefined constant _HOMEPAGE_DESC - assumed '_HOMEPAGE_DESC' in c:\phpdev\www\xoops-2.0.5.2\html\modules\homepage\xoops_version.php on line 34
+[06-Jul-2004 19:40:59] PHP Notice:  Use of undefined constant _HOMEPAGE_DESC - assumed '_HOMEPAGE_DESC' in c:\phpdev\www\xoops-2.0.5.2\html\modules\homepage\xoops_version.php on line 34
+[06-Jul-2004 19:41:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 19:41:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 19:41:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 19:41:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 19:43:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 19:43:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 19:43:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 19:43:02] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 19:43:45] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 19:43:45] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 19:43:45] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 19:43:45] PHP Notice:  Undefined offset:  4 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 19:43:56] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 19:43:56] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 19:43:56] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 19:43:56] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 20:05:57] PHP Warning:  Failed opening '../../config.php' for inclusion (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 21
+[06-Jul-2004 20:08:38] PHP Parse error:  parse error in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 21
+[06-Jul-2004 20:09:21] PHP Parse error:  parse error in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 21
+[06-Jul-2004 20:12:16] PHP Warning:  Failed opening 'XOOPS_ROOT_PATH/modules/globetrotter/config.php' for inclusion (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php on line 19
+[06-Jul-2004 20:12:22] PHP Warning:  Cannot send session cache limiter - headers already sent (output started at c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\index.php:19) in c:\phpdev\www\xoops-2.0.5.2\html\include\common.php on line 159
+[06-Jul-2004 20:19:45] PHP Notice:  Use of undefined constant xoops_ - assumed 'xoops_' in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\config.php on line 34
+[06-Jul-2004 20:19:53] PHP Notice:  Use of undefined constant xoops_ - assumed 'xoops_' in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\config.php on line 34
+[06-Jul-2004 20:19:54] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 20:19:54] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 20:19:54] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 20:19:54] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 20:20:57] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 20:20:57] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 20:20:57] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 20:20:57] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 20:25:36] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 415
+[06-Jul-2004 20:25:36] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 416
+[06-Jul-2004 20:25:36] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 417
+[06-Jul-2004 20:25:36] PHP Notice:  Undefined offset:  5 in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\globetrotter.php on line 418
+[06-Jul-2004 22:43:05] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[06-Jul-2004 22:43:12] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:37:29] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:37:37] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:49:06] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:49:14] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:53:59] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:54:07] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:58:27] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:58:34] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 22:59:54] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:00:01] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:05:28] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:05:35] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:06:00] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:06:08] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:06:38] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:06:38] PHP Warning:  Can't connect to MySQL server on 'localhost' (10055) in c:\phpdev\www\xoops-2.0.5\html\modules\globetrotter\globetrotter.php on line 376
+[07-Jul-2004 23:06:38] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10055)
+ in c:\phpdev\www\xoops-2.0.5\html\modules\globetrotter\globetrotter.php on line 376
+[07-Jul-2004 23:06:51] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:06:58] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:06:58] PHP Warning:  Can't connect to MySQL server on 'localhost' (10055) in c:\phpdev\www\xoops-2.0.5\html\modules\globetrotter\globetrotter.php on line 376
+[07-Jul-2004 23:06:58] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10055)
+ in c:\phpdev\www\xoops-2.0.5\html\modules\globetrotter\globetrotter.php on line 376
+[07-Jul-2004 23:07:45] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:07:53] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[07-Jul-2004 23:07:53] PHP Warning:  Can't connect to MySQL server on 'localhost' (10055) in c:\phpdev\www\xoops-2.0.5\html\modules\globetrotter\globetrotter.php on line 376
+[07-Jul-2004 23:07:53] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10055)
+ in c:\phpdev\www\xoops-2.0.5\html\modules\globetrotter\globetrotter.php on line 376
+[08-Jul-2004 18:24:53] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 18:25:00] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 18:25:24] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 18:25:32] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 18:26:06] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 18:26:14] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 20:46:26] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 20:46:33] PHP Warning:  Invalid argument supplied for foreach() in c:\phpdev\www\xoops-2.0.5\html\modules\system\blocks\system_blocks.php on line 487
+[08-Jul-2004 22:34:22] PHP Fatal error:  Failed opening required 'templates/Light-Gray-slim/template.php' (include_path='.;C:/phpdev/php/includes;C:/phpdev/php/class') in c:\phpdev\www\xoops-2.0.5.2\html\modules\globetrotter\config.php on line 61
